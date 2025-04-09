@@ -1,4 +1,3 @@
-// src/lib/utils/parseContent.js
 import { marked } from 'marked';
 
 export function parseContent(content: string) {

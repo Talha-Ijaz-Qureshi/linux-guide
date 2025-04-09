@@ -564,7 +564,7 @@ const sections: Section[] = [
           },
           { 
             type: 'note',
-            value: 'If you have an older PC with NVIDIA graphics or an older laptop, wayland not perform well on your device, and you may want to stick with X11. You can always switch back to X11 if you experience any issues with Wayland.',
+            value: 'If you have an older PC with NVIDIA graphics or an older laptop, wayland may not perform well on your device, and you may want to stick with X11. You can always switch back to X11 if you experience any issues with Wayland.',
             kind: 'warning',
             message: 'Important to Note'
           },
